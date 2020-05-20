@@ -9,11 +9,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/mpv-player-windows/stable/mpv-0.32.0-x86_64.7z",
+            "url": "https://downloads.sourceforge.net/projects/mpv-player-windows/files/stable/mpv-0.31.0-x86_64.7z",
             "hash": "sha1:17087fed4229e7917250bfb6f17297f847a84c72"
         },
         "32bit": {
-            "url": "https://downloads.sourceforge.net/project/mpv-player-windows/stable/mpv-0.32.0-i686.7z",
+            "url": "https://downloads.sourceforge.net/projects/mpv-player-windows/files/stable/mpv-0.31.0-x86_64.7z",
             "hash": "sha1:443fdc05d1923d5e3385409f51ccf188b383bace"
         }
     },
